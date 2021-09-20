@@ -1,5 +1,4 @@
 hello atguigu! hello git
 hhhh hhhhhh
-<<<<<<< HEAD
 hot-fix fff hot-fix-2
 hhh master1
